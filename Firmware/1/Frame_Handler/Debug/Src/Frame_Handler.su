@@ -1,0 +1,8 @@
+../Src/Frame_Handler.c:52:6:motor_set_mode	16	static
+../Src/Frame_Handler.c:57:6:motor_set_speed	16	static
+../Src/Frame_Handler.c:62:6:motor_set_pos	16	static
+../Src/Frame_Handler.c:68:6:init_new_frame	8	static
+../Src/Frame_Handler.c:80:6:frame_end_process	16	static
+../Src/Frame_Handler.c:92:6:frame_process	16	static
+../Src/Frame_Handler.c:135:19:FRAME_HANDLER_HAL_UART_Receive	24	static
+../Src/Frame_Handler.c:146:6:SEQUENCE_Handler	4	static

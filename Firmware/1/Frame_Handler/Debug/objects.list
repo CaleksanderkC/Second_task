@@ -1,0 +1,4 @@
+"./Drivers/CMSIS/Device/ST/STM32G4xx/Source/Templates/system_stm32g4xx.o"
+"./Src/Frame_Handler.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
